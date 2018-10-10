@@ -32,18 +32,18 @@
 		10B123AD98AC810B156C696A690FA564 /* Pods-BRYXBannerExample-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BRYXBannerExample-umbrella.h"; sourceTree = "<group>"; };
 		1582940B93CBF2024D69F7E43DDD9107 /* Pods-BRYXBannerExample-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BRYXBannerExample-acknowledgements.markdown"; sourceTree = "<group>"; };
 		1B52F5AEFBEB044582EDFFE7FE88A468 /* Pods-BRYXBannerExample-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BRYXBannerExample-frameworks.sh"; sourceTree = "<group>"; };
-		1F0E76CD400EE9B93E7F9790F3F063A7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		1D91478F216EBA38002F0B2B /* BRYXBanner-JettFDev.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; fileEncoding = 4; path = "BRYXBanner-JettFDev.podspec"; sourceTree = "<group>"; };
+		1F0E76CD400EE9B93E7F9790F3F063A7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		344B33D6A73760803C27300E2D1FA8D5 /* BRYXBanner-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BRYXBanner-prefix.pch"; sourceTree = "<group>"; };
-		568BA4E60328459384218720991311D9 /* BRYXBanner.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = BRYXBanner.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5A9DBE892C956ECC939CDC685887FEA5 /* BRYXBanner-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BRYXBanner-dummy.m"; sourceTree = "<group>"; };
 		61B3201939A9F4EC718FBC4294A562AE /* Pods-BRYXBannerExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BRYXBannerExample.debug.xcconfig"; sourceTree = "<group>"; };
 		6A6AFB00301A4D30EBEE893602FBE4F8 /* Pods-BRYXBannerExample-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-BRYXBannerExample-acknowledgements.plist"; sourceTree = "<group>"; };
 		72F532609E70B934AF4BAFA1C53CB612 /* BRYXBanner.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BRYXBanner.xcconfig; sourceTree = "<group>"; };
-		7B506E59CD88226DE372FC171AEE3BC3 /* BRYXBanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = BRYXBanner.framework; path = BRYXBanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		90FE238AECB5485C6ED2EA126FE3E456 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		912DB209DA0C0B0F83CFF50357317BE5 /* Pods_BRYXBannerExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_BRYXBannerExample.framework; path = "Pods-BRYXBannerExample.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7B506E59CD88226DE372FC171AEE3BC3 /* BRYXBanner.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BRYXBanner.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		90FE238AECB5485C6ED2EA126FE3E456 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		912DB209DA0C0B0F83CFF50357317BE5 /* Pods_BRYXBannerExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BRYXBannerExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94E3A2C9BB2A0DF3FD6F47462AFF13B0 /* BRYXBanner-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BRYXBanner-umbrella.h"; sourceTree = "<group>"; };
 		956099D9B72034CA224C04FBBDCD447B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CB315CBC2F82A27ADB01A8AD55B042C1 /* Pods-BRYXBannerExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BRYXBannerExample.release.xcconfig"; sourceTree = "<group>"; };
@@ -171,7 +171,7 @@
 		FA98C6F94C12D486591DCC34F702C0F3 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				568BA4E60328459384218720991311D9 /* BRYXBanner.podspec */,
+				1D91478F216EBA38002F0B2B /* BRYXBanner-JettFDev.podspec */,
 				1F0E76CD400EE9B93E7F9790F3F063A7 /* LICENSE */,
 				90FE238AECB5485C6ED2EA126FE3E456 /* README.md */,
 			);
